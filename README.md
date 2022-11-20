@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amirhosein Moqaddasi`</h1>
+<h1 align="center">Hi 👋, I'm Amirhosein Moqaddasi</h1>
 <h3 align="center">A frontend developer</h3>
 
 - 🔭 I’m currently working on **Chargoon Co**
