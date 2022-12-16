@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 😍You can find more about me on [Moqaddasi.com](Moqaddasi.com)
+- 😍You can find more about me on [http://moqaddasi.com/](Moqaddasi.com)
 
 - 💬 Ask me about **JS,React**
 
