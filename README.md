@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirhosein Moqaddasi</h1>
-<h3 align="center">A frontend developer</h3>
-# 💫 About Me:
+<h2 align="center">A frontend developer</h3>
+<h3>💫 About Me: </h2> 
 🔭 Engaged in meaningful work at Chargoon Co, striving for its success.<br><br>🌱 Embarking on a journey of learning in the realm of JavaScript, driven by the desire for continuous improvement.<br><br>😍 Explore more about me at moqaddasi.com, where my story unfolds.<br><br>💬 Passionate about discussing JavaScript and React – feel free to spark a conversation!<br><br>📫 Reach out to me at ah.moqaddasi@gmail.com; let's connect and exchange ideas!
 
 
